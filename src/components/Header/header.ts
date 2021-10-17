@@ -23,6 +23,7 @@ export const HeaderWrapper = styled.header`
     text-align: center;
     font-family: "Bai Jamjuree", sans-serif;
     font-weight: 600;
+    color: #222222;
   }
 `;
 

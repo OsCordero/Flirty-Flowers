@@ -7,5 +7,6 @@ export const FooterWrapper = styled.footer`
     font-size: 15vw;
     text-transform: uppercase;
     font-family: "Bodoni Moda";
+    color: #222222;
   }
 `;

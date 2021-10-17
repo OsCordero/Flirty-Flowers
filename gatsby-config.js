@@ -8,6 +8,7 @@ module.exports = {
   /* Your site config here */
   plugins: [
     `gatsby-plugin-sass`,
+    `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-plugin-less`,
       options: {
@@ -18,4 +19,4 @@ module.exports = {
       },
     },
   ],
-}
+};

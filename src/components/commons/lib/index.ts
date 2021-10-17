@@ -16,7 +16,7 @@ export const SectionHeading = styled.h6`
   font-weight: 600;
   letter-spacing: 1px;
   font-family: "Syncopate", sans-serif;
-  color: "#626262";
+  color: #626262;
   margin-bottom: 50px;
 `;
 

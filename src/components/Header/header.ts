@@ -11,7 +11,7 @@ export const HeaderWrapper = styled.header`
     letter-spacing: 1px;
     font-weight: 600;
     font-family: "Syncopate", sans-serif;
-    color: "#626262";
+    color: #626262;
     text-transform: uppercase;
     li {
       margin: 10px 0;

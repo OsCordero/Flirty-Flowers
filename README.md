@@ -7,4 +7,4 @@ To run this started use
 `npm start` - to start local dev server
 
 
-I added react spring just to compare both libraries
+I added react spring just to compare both libraries (gsap and react-spring)

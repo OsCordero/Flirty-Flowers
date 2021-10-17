@@ -5,5 +5,6 @@ export const AboutWrapper = styled(Section)`
   p {
     font-size: 70px;
     line-height: 1.12;
+    color: #222;
   }
 `;
